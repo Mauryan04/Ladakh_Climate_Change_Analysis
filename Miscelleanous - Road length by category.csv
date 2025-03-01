@@ -1,0 +1,7 @@
+Years,road_category,road_lengthKM,land_used,tourism_facilities
+1972,National highway,5.9,2,10
+1982,Arterial roads,20.8,2.5,15
+1992,Sub-arterial roads,17.3,3,25
+2002,Collector roads,78.2,4,50
+2012,District roads,10.9,6,100
+2022,Pathways,40.7,8.5,200

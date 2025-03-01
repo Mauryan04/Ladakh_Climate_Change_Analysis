@@ -1,0 +1,13 @@
+Years,Pollution_typess,Pollution_levels,CO2_emissions_tons,Water_pollution_indexed,Chemical_concentration_ppm
+1972,Air,Low,100,10,2.5
+1972,Water,Low,50,5,1
+1982,Air,Low,150,12,3.2
+1982,Water,Low,75,7,1.5
+1992,Air,Moderate,300,20,4.1
+1992,Water,Moderate,125,10,2
+2002,Air,Moderate,450,25,5
+2002,Water,Moderate,200,15,2.5
+2012,Air,High,700,30,6.5
+2012,Water,High,350,22,3.8
+2022,Air,High,1000,40,8
+2022,Water,High,500,30,5

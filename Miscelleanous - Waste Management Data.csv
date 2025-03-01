@@ -1,0 +1,7 @@
+Years,Waste_Generateed,Waste_Disposal_methods,Waste_treatment_capacity
+1972,50,Open Dumping,0
+1982,70,Open Dumping,10
+1992,120,Open Dumping,30
+2002,250,Landfill,80
+2012,400,Landfill + Basic Recycling,200
+2022,700,Landfill + Recycling Facility,500
